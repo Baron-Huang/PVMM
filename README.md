@@ -6,7 +6,7 @@ Pan Huang, Chentao Li, Mingrui Ma, Hong Yan, Chi Zhang, Xin Luo*, Xiuwu Bian*, Y
 
 ## :fire: News
 
-- [2026/02/25] Our manuscript will be submitted to _Nature Biomedical Engineering_ (IF 26.7).
+- [2026/02/25] Our manuscript will be submitted to _Nature Cancer_ (IF 28.5).
 
 
 
