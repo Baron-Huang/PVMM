@@ -2,7 +2,7 @@
 Pathological Vision-gene Multiview-causal Multimodal: Tumors Bayesian Cluster-effect guided-Interpretable Collaborative Tensor Clustering
 
 ## 🧔: Authors [*Corresponding author]
-Pan Huang, Chentao Li, Mingrui Ma, Hong Yan, Chi Zhang, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
+Pan Huang, Chentao Li, Chi Zhang, Mingrui Ma, Hong Yan, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
 
 ## :fire: News
 
